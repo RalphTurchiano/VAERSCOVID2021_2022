@@ -1,6 +1,8 @@
 # VAERSCOVID2021_2022
-VAERS DATA PLUS COVID VACCINE RATES MERGED FOR 2021 AND 2022
-Downloaded CSV's VAERS DATA VAERS Symptoms VAERS Vaccine for all of 2021 and 2022
+VAERS DATA PLUS COVID VACCINE RATES MERGED FOR 2021 AND 2022  
+
+Downloaded CSV's VAERS DATA VAERS Symptoms VAERS Vaccine for all of 2021 and 2022  
+
 https://vaers.hhs.gov/data/datasets.html
 Downloaded COVID-19_Vaccination_Trends.csv for 2021 and 2022 from COVID-19 Vaccination Trends in the United States,National and Jurisdictional 
 https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2
@@ -22,3 +24,4 @@ After Converting for Dates, simplified data types through convert_dyoes
 For Data Mining created two Refined CSV files 
 'COVIDVAERS_WITH_DUPLICATES2021_2022.csv' has all rows including duplicated VAERS_ID's for text mining
 'COVIDVAERS_NO_DUPLICATES2021_2022.csv' removed duplicated VAERS_ID kept first
+ 
